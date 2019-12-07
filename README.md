@@ -3,6 +3,7 @@
 Pada praktek kali ini, saya mencoba membuat program menentukan nilai mahasiswa dengan menggunakan list.
 
 -Source Code dan Penjelasan
+
 	print("PROGRAM INPUT NILAI")
 	print("===================")
 
